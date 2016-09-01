@@ -1,3 +1,4 @@
+//*this is test*//
 //target = desired output vector
 //point = training point matrix
 
